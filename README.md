@@ -2,8 +2,7 @@
 
 SimpleJWT is a simple JSON web token library written in PHP.
 
-[![Latest Stable Version](https://poser.pugx.org/kelvinmo/simplejwt/v/stable)](https://packagist.org/packages/kelvinmo/simplejwt)
-[![Build Status](https://travis-ci.org/kelvinmo/simplejwt.svg?branch=master)](https://travis-ci.org/kelvinmo/simplejwt)
+Personal fork from [kelvinmo/simplejwt](https://github.com/kelvinmo/simplejwt) for handle custom requirements.
 
 ## Features
 
@@ -37,7 +36,7 @@ You can install via [Composer](http://getcomposer.org/).
 ```json
 {
     "require": {
-        "kelvinmo/simplejwt": "0.1.*"
+        "josecely/simplejwt": "0.1.*"
     }
 }
 ```
